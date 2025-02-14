@@ -24,10 +24,3 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me *<b></b>*
 
-
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pandeycoder&amp;show_icons=true&amp;theme=gotham" alt="Pandeycoder" style="max-width: 100%;">
-</p>
-<img align="center" src="https://streak-stats.demolab.com/?user=Pandeycoder" alt="Pandeycoder" style="max-width: 100%;">
-
-</section>
